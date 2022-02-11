@@ -3,7 +3,7 @@
 <div style="width:100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRD4lgVO7O-_2lX6wV74g3onZSnzCwLwMhb2yof19LkwSNrCNHQFe8TwnrLghr6NmDEY8&usqp=CAU" width="300" height="200" steyle="margin-left:52px;float:left;">
 
-<img src="https://www.picng.com/thumbnail/number9/png_number9_50128_small.png" width="100" height="100" steyle="float:left;">
+<img src="https://www.picng.com/thumbnail/number9/png_number9_50128_small.png" width="100" height="100" steyle="float:left;margin-botton:30px;">
 </div>
 
 # Minimum PHP Requirement
